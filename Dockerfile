@@ -1,4 +1,4 @@
-FROM armhf/python:2.7
+FROM arm32v7/python:2.7-jessie
 
 RUN mkdir -p /data
 
